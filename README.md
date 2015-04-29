@@ -9,3 +9,4 @@ My first repository on GitHub.
 *ローカル*で作業  
 もう一行追加
 
+リモートでブランチを編集
